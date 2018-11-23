@@ -1,0 +1,44 @@
+[{
+    "emp_id":772377,
+    "harmony_id":1,
+    "emp_name":"Tejasvi Tata",
+    "phone_no":8895253674,
+    "mail_id":"tatatejasvi@gmail.com",
+    "manager_name":"Manoj",
+    "manager_phnone_no":"8895253674",
+    "leave_balance":10,
+    "leave_requests":2
+},
+{
+    "emp_id":766227,
+    "harmony_id":2,
+    "emp_name":"Tirthankar Parija",
+    "phone_no":7873824204,
+    "mail_id":"parija.tirthankar@gmail.com",
+    "manager_name":"Manoj",
+    "manager_phnone_no":"8895253674",
+    "leave_balance":11,
+    "leave_requests":3
+},
+{
+    "emp_id":751062,
+    "harmony_id":3,
+    "emp_name":"Anubhab Mondal",
+    "phone_no":8296282882,
+    "mail_id":"anubhab.mondal11@gmail.com",
+    "manager_name":"Manoj",
+    "manager_phnone_no":"8895253674",
+    "leave_balance":12,
+    "leave_requests":3
+},
+{
+    "emp_id":751224,
+    "harmony_id":4,
+    "emp_name":"Nilesh Sinha",
+    "phone_no":8596019007,
+    "mail_id":"nileshsinha037@gmail.com",
+    "manager_name":"Manoj",
+    "manager_phnone_no":"8895253674",
+    "leave_balance":13,
+    "leave_requests":3
+}]
